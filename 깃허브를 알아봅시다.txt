@@ -1,1 +1,4 @@
 - 이런 문제 때문에 리눅스 토발즈는 BitKeeper라는 상용 DVCS(Distributed Version Control System - 분산 버전 관리) 프로그램을 사용해서 문제를 해결하려고 함.
+
+
+dfkdjfldkjflkfjlk 
